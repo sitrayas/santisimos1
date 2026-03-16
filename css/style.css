@@ -10120,3 +10120,13 @@ background:#7B1E3A !important;
 .owl-dots{
 display:none !important;
 }
+
+
+
+
+.keyword-highlight{
+    background: #ffe082;
+    color: #000;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
